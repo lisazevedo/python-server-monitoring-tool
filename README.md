@@ -5,7 +5,7 @@ The Python server uptime monitoring tool is a command line tool which is develop
 ## Requirements (Lab Setup)
 - OS: Ubuntu Server 20.04.1
 - Python: 3.6.x
-- Scapy: 2.2.4
+- Scapy: 2.4.4
 
 
 ## Source Code with Explanation
